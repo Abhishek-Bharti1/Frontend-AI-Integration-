@@ -1,8 +1,7 @@
-import Image from "next/image";
 
 export default function Home() {
   return (
- <div>
+ <div className="min-h-screen bg-black text-white overflow-hidden relative">
   
  </div>
   );
