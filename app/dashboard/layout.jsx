@@ -185,7 +185,7 @@ export default function DashboardLayout({ children }) {
                       "shadow-xl backdrop-blur-md bg-slate-800/90 border border-slate-600",
                     userPreviewMainIdentifier: "font-semibold text-white",
                   },
-                }}
+                }}  
                 afterSignOutUrl="/"
               />
             </div>
